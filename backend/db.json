@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Geladeira",
+      "price": "2500",
+      "id": 1
+    },
+    {
+      "name": "Lapis",
+      "price": "2",
+      "id": 2
+    }
+  ]
+}
